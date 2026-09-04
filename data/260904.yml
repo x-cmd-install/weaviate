@@ -7,7 +7,7 @@ about:
   head: 85dbeac
   archived: false
   latestVersion: v1.38.13
-  collectedAt: 2026-09-04T19:18:44Z
+  collectedAt: 2026-09-04T21:15:30Z
 timeline:
   created: 2016-03-30
   lastCommit: 2026-09-04
@@ -18,7 +18,7 @@ popularity:
   fork: 1390
   release: 576
   contributor: 163
-  pullRequest: 9946
+  pullRequest: 9947
   issue: 2877
 language:
   Go: 38088521
@@ -40,7 +40,7 @@ recent:
     since: 2026-08-05
     release: 8
     mergedPR: 241
-    openPR: 77
+    openPR: 78
     closedIssue: 4
     openIssue: 62
     commit: 1193
@@ -48,7 +48,7 @@ recent:
     since: 2026-07-06
     release: 24
     mergedPR: 558
-    openPR: 141
+    openPR: 142
     closedIssue: 12
     openIssue: 79
     commit: 2616
@@ -56,7 +56,7 @@ recent:
     since: 2026-06-06
     release: 32
     mergedPR: 801
-    openPR: 182
+    openPR: 183
     closedIssue: 24
     openIssue: 113
     commit: 3478
@@ -64,7 +64,7 @@ recent:
     since: 2026-03-08
     release: 74
     mergedPR: 1464
-    openPR: 217
+    openPR: 218
     closedIssue: 53
     openIssue: 139
     commit: 5696
@@ -72,7 +72,7 @@ recent:
     since: 2025-09-09
     release: 100
     mergedPR: 2590
-    openPR: 239
+    openPR: 240
     closedIssue: 82
     openIssue: 172
     commit: 9038
@@ -80,18 +80,126 @@ recent:
     since: 2024-09-14
     release: 100
     mergedPR: 5061
-    openPR: 250
+    openPR: 251
     closedIssue: 215
     openIssue: 285
     commit: 15540
 total:
   release: 576
   mergedPR: 7848
-  openPR: 251
+  openPR: 252
   closedIssue: 2418
   openIssue: 459
   commit: 29229
 ---
+path: /home/runner/.x-repo/github.com/weaviate/weaviate
+collectedAt: 2026-09-04T21:16:06Z
+loc:
+  Go:
+    code: 1049768
+    comments: 186011
+    blanks: 175050
+    files: 5114
+  Json:
+    code: 30879
+    comments: 0
+    blanks: 0
+    files: 31
+  Python:
+    code: 14027
+    comments: 1001
+    blanks: 2122
+    files: 54
+  AssemblyGAS:
+    code: 7108
+    comments: 381
+    blanks: 489
+    files: 36
+  Sh:
+    code: 4020
+    comments: 576
+    blanks: 635
+    files: 40
+  Protobuf:
+    code: 2083
+    comments: 196
+    blanks: 326
+    files: 17
+  C:
+    code: 1707
+    comments: 304
+    blanks: 442
+    files: 21
+  Yaml:
+    code: 1366
+    comments: 173
+    blanks: 31
+    files: 30
+  JavaScript:
+    code: 370
+    comments: 45
+    blanks: 30
+    files: 2
+  Css:
+    code: 274
+    comments: 4
+    blanks: 10
+    files: 1
+  Html:
+    code: 151
+    comments: 3
+    blanks: 5
+    files: 1
+  Jinja2:
+    code: 87
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 74
+    comments: 13
+    blanks: 28
+    files: 1
+  Ini:
+    code: 67
+    comments: 779
+    blanks: 238
+    files: 2
+  Dockerfile:
+    code: 54
+    comments: 14
+    blanks: 14
+    files: 3
+  Hcl:
+    code: 25
+    comments: 1
+    blanks: 4
+    files: 3
+  Pan:
+    code: 25
+    comments: 6
+    blanks: 16
+    files: 1
+  Toml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2867
+    blanks: 709
+    files: 19
+  Text:
+    code: 0
+    comments: 18
+    blanks: 3
+    files: 2
+total:
+  code: 1112220
+  comments: 192429
+  blanks: 180170
+  files: 5380
 ---
 date: "2026-08-24"
 repo:
