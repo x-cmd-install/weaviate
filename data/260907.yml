@@ -2,24 +2,24 @@ about:
   description: "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
   license: BSD-3-Clause
   homepage: https://weaviate.io/developers/weaviate/
-  head: 85dbeac
+  head: 2b7455e
   archived: false
-  latestVersion: "v1.38.13"
-  collectedAt: 2026-09-07T05:23:09Z
+  latestVersion: "v1.39.3"
+  collectedAt: 2026-09-07T19:00:52Z
 timeline:
   created: 2016-03-30
-  lastCommit: 2026-09-04
-  lastRelease: 2026-08-27
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
-  star: 16787
+  star: 16790
   watcher: 141
-  fork: 1394
-  release: 576
+  fork: 1396
+  release: 579
   contributor: 163
-  pullRequest: 9953
-  issue: 2883
+  pullRequest: 9974
+  issue: 2885
 language:
-  Go: 38088521
+  Go: 38647928
   Python: 698833
   Assembly: 353133
   Shell: 197591
@@ -32,72 +32,72 @@ language:
   Dockerfile: 2963
   Go Template: 1329
   HCL: 558
-totalBytes: 39457179
+totalBytes: 40016586
 recent:
   last30d:
     since: 2026-08-08
-    release: 7
-    mergedPR: 223
+    release: 10
+    mergedPR: 243
     openPR: 79
-    closedIssue: 3
-    openIssue: 62
-    commit: 717
+    closedIssue: 4
+    openIssue: 63
+    commit: 825
   last60d:
     since: 2026-07-09
-    release: 21
-    mergedPR: 517
+    release: 24
+    mergedPR: 537
     openPR: 138
-    closedIssue: 10
-    openIssue: 83
-    commit: 2351
+    closedIssue: 11
+    openIssue: 84
+    commit: 2459
   last90d:
     since: 2026-06-09
-    release: 32
-    mergedPR: 791
+    release: 35
+    mergedPR: 811
     openPR: 187
-    closedIssue: 21
-    openIssue: 114
-    commit: 3437
+    closedIssue: 22
+    openIssue: 115
+    commit: 3545
   last180d:
     since: 2026-03-11
-    release: 68
-    mergedPR: 1434
+    release: 71
+    mergedPR: 1454
     openPR: 224
-    closedIssue: 53
-    openIssue: 145
-    commit: 5452
+    closedIssue: 54
+    openIssue: 146
+    commit: 5560
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 2547
+    mergedPR: 2567
     openPR: 246
-    closedIssue: 81
-    openIssue: 178
-    commit: 8901
+    closedIssue: 82
+    openIssue: 179
+    commit: 9009
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 5045
+    mergedPR: 5065
     openPR: 257
-    closedIssue: 213
-    openIssue: 291
-    commit: 15523
+    closedIssue: 214
+    openIssue: 292
+    commit: 15623
 total:
-  release: 576
-  mergedPR: 7848
+  release: 579
+  mergedPR: 7868
   openPR: 258
-  closedIssue: 2418
-  openIssue: 465
-  commit: 29229
+  closedIssue: 2419
+  openIssue: 466
+  commit: 29329
 ---
 path: /home/runner/.x-repo/github.com/weaviate/weaviate
-collectedAt: 2026-09-07T05:24:01Z
+collectedAt: 2026-09-07T19:01:52Z
 loc:
   Go:
-    code: 1049768
-    comments: 186011
-    blanks: 175050
-    files: 5114
+    code: 1062395
+    comments: 187489
+    blanks: 176530
+    files: 5153
   Json:
     code: 30879
     comments: 0
@@ -194,10 +194,10 @@ loc:
     blanks: 3
     files: 2
 total:
-  code: 1112220
-  comments: 192429
-  blanks: 180170
-  files: 5380
+  code: 1124847
+  comments: 193907
+  blanks: 181650
+  files: 5419
 ---
 date: "2026-08-24"
 repo:
@@ -326,27 +326,27 @@ checks:
       - 'Info:   0 out of   2 pipCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:07+00:00
+  collectedAt: 2026-09-07T19:01:54+00:00
   platform:
     darwin/arm64:
-      name:  weaviate-v1.38.13-darwin-all.zip
-      url:   https://github.com/weaviate/weaviate/releases/download/v1.38.13/weaviate-v1.38.13-darwin-all.zip
-      size:  142420489
+      name:  weaviate-v1.39.3-darwin-all.zip
+      url:   https://github.com/weaviate/weaviate/releases/download/v1.39.3/weaviate-v1.39.3-darwin-all.zip
+      size:  143844659
       score: 28
     darwin/amd64:
-      name:  weaviate-v1.38.13-darwin-all.zip
-      url:   https://github.com/weaviate/weaviate/releases/download/v1.38.13/weaviate-v1.38.13-darwin-all.zip
-      size:  142420489
+      name:  weaviate-v1.39.3-darwin-all.zip
+      url:   https://github.com/weaviate/weaviate/releases/download/v1.39.3/weaviate-v1.39.3-darwin-all.zip
+      size:  143844659
       score: 28
     linux/arm64:
-      name:  weaviate-v1.38.13-linux-arm64.tar.gz
-      url:   https://github.com/weaviate/weaviate/releases/download/v1.38.13/weaviate-v1.38.13-linux-arm64.tar.gz
-      size:  68604333
+      name:  weaviate-v1.39.3-linux-arm64.tar.gz
+      url:   https://github.com/weaviate/weaviate/releases/download/v1.39.3/weaviate-v1.39.3-linux-arm64.tar.gz
+      size:  69271549
       score: 143
     linux/amd64:
-      name:  weaviate-v1.38.13-linux-amd64.tar.gz
-      url:   https://github.com/weaviate/weaviate/releases/download/v1.38.13/weaviate-v1.38.13-linux-amd64.tar.gz
-      size:  72223966
+      name:  weaviate-v1.39.3-linux-amd64.tar.gz
+      url:   https://github.com/weaviate/weaviate/releases/download/v1.39.3/weaviate-v1.39.3-linux-amd64.tar.gz
+      size:  72971528
       score: 143
     win/arm64:
       name:  null
