@@ -5,15 +5,15 @@ about:
   head: 2b7455e
   archived: false
   latestVersion: "v1.39.3"
-  collectedAt: 2026-09-08T02:45:47Z
+  collectedAt: 2026-09-08T05:21:37Z
 timeline:
   created: 2016-03-30
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 16792
+  star: 16793
   watcher: 141
-  fork: 1397
+  fork: 1398
   release: 579
   contributor: 163
   pullRequest: 9974
@@ -91,7 +91,7 @@ total:
   commit: 29329
 ---
 path: /home/runner/.x-repo/github.com/weaviate/weaviate
-collectedAt: 2026-09-08T02:46:42Z
+collectedAt: 2026-09-08T05:22:30Z
 loc:
   Go:
     code: 1062395
