@@ -1,0 +1,114 @@
+- repo: aur
+  srcname: weaviate
+  binname: weaviate
+  visiblename: weaviate
+  version: 1.39.3
+  origversion: 1.39.3-1
+  status: newest
+  summary: An open source vector database written in Go
+  maintainers:
+    - lmartinez-mirror@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: weaviate-bin
+  binname: weaviate-bin
+  visiblename: weaviate-bin
+  version: 1.39.3
+  origversion: 1.39.3-1
+  status: newest
+  summary: An open source vector database written in Go
+  maintainers:
+    - lmartinez-mirror@aur
+  licenses:
+    - BSD-3-Clause
+- repo: freebsd
+  srcname: databases/weaviate
+  binname: weaviate
+  visiblename: databases/weaviate
+  version: 1.39.3
+  origversion: null
+  status: newest
+  summary: Vector database that stores both objects and vectors
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - databases
+- repo: homebrew
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.39.3
+  origversion: null
+  status: newest
+  summary: Open-source vector database that stores both objects and vectors
+- repo: nix_unstable
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.39.2
+  origversion: null
+  status: outdated
+  summary: ML-first vector search engine
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_24_11
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.26.6
+  origversion: null
+  status: outdated
+  summary: ML-first vector search engine
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.30.2
+  origversion: null
+  status: outdated
+  summary: ML-first vector search engine
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
+- repo: nix_stable_24_05
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.25.0
+  origversion: null
+  status: outdated
+  summary: The ML-first vector search engine
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
+- repo: nix_stable_25_11
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.33.11
+  origversion: null
+  status: outdated
+  summary: ML-first vector search engine
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
+- repo: nix_stable_26_05
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.35.2
+  origversion: null
+  status: outdated
+  summary: ML-first vector search engine
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
