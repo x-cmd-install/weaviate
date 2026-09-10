@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.39.3"
   latestRelease: "v1.39.3"
   latestPrerelease: "v1.39.0-rc.1"
-  collectedAt: 2026-09-10T20:31:12Z
+  collectedAt: 2026-09-10T23:15:47Z
 timeline:
   created: 2016-03-30
   lastCommit: 2026-09-10
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 16799
   watcher: 141
-  fork: 1399
+  fork: 1400
   release: 579
   contributor: 164
-  pullRequest: 10013
+  pullRequest: 10014
   issue: 2888
 language:
   Go: 39048721
@@ -42,7 +42,7 @@ recent:
     since: 2026-08-11
     release: 10
     mergedPR: 236
-    openPR: 73
+    openPR: 74
     closedIssue: 3
     openIssue: 59
     commit: 1014
@@ -50,7 +50,7 @@ recent:
     since: 2026-07-12
     release: 23
     mergedPR: 554
-    openPR: 148
+    openPR: 149
     closedIssue: 10
     openIssue: 87
     commit: 2655
@@ -58,7 +58,7 @@ recent:
     since: 2026-06-12
     release: 34
     mergedPR: 825
-    openPR: 195
+    openPR: 196
     closedIssue: 20
     openIssue: 110
     commit: 3762
@@ -66,7 +66,7 @@ recent:
     since: 2026-03-14
     release: 70
     mergedPR: 1455
-    openPR: 234
+    openPR: 235
     closedIssue: 54
     openIssue: 149
     commit: 5777
@@ -74,7 +74,7 @@ recent:
     since: 2025-09-15
     release: 100
     mergedPR: 2584
-    openPR: 256
+    openPR: 257
     closedIssue: 82
     openIssue: 182
     commit: 9226
@@ -82,20 +82,20 @@ recent:
     since: 2024-09-20
     release: 100
     mergedPR: 5075
-    openPR: 267
+    openPR: 268
     closedIssue: 209
     openIssue: 290
     commit: 15749
 total:
   release: 579
   mergedPR: 7895
-  openPR: 268
+  openPR: 269
   closedIssue: 2419
   openIssue: 469
   commit: 29527
 ---
 path: /home/runner/.x-repo/github.com/weaviate/weaviate
-collectedAt: 2026-09-10T20:32:07Z
+collectedAt: 2026-09-10T23:17:03Z
 loc:
   Go:
     code: 1070227
