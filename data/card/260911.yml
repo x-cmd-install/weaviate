@@ -2,31 +2,31 @@ about:
   description: "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
   license: NOASSERTION
   homepage: https://weaviate.io/developers/weaviate/
-  head: ea6fe86
+  head: 77063ad
   archived: false
-  latestVersion: "v1.39.3"
-  latestRelease: "v1.39.3"
+  latestVersion: "v1.39.4"
+  latestRelease: "v1.39.4"
   latestPrerelease: "v1.39.0-rc.1"
-  collectedAt: 2026-09-11T05:40:38Z
+  collectedAt: 2026-09-11T19:12:48Z
 timeline:
   created: 2016-03-30
-  lastCommit: 2026-09-10
-  lastVersion: 2026-09-07
-  lastRelease: 2026-09-07
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-11
+  lastRelease: 2026-09-11
   lastPrerelease: 2026-07-29
 popularity:
   star: 16801
   watcher: 141
-  fork: 1400
-  release: 579
-  contributor: 164
-  pullRequest: 10014
+  fork: 1399
+  release: 580
+  contributor: 165
+  pullRequest: 10031
   issue: 2888
 language:
-  Go: 39048721
+  Go: 39071742
   Python: 698833
   Assembly: 353133
-  Shell: 197738
+  Shell: 197424
   C: 77742
   JavaScript: 15708
   HTML: 6852
@@ -36,72 +36,72 @@ language:
   Dockerfile: 3057
   Go Template: 1329
   HCL: 558
-totalBytes: 40417713
+totalBytes: 40440420
 recent:
   last30d:
     since: 2026-08-12
-    release: 10
-    mergedPR: 227
-    openPR: 72
-    closedIssue: 3
-    openIssue: 58
-    commit: 1014
+    release: 11
+    mergedPR: 237
+    openPR: 79
+    closedIssue: 4
+    openIssue: 57
+    commit: 1038
   last60d:
     since: 2026-07-13
-    release: 23
-    mergedPR: 534
-    openPR: 149
-    closedIssue: 10
-    openIssue: 86
-    commit: 2655
+    release: 24
+    mergedPR: 544
+    openPR: 156
+    closedIssue: 11
+    openIssue: 85
+    commit: 2679
   last90d:
     since: 2026-06-13
-    release: 34
-    mergedPR: 824
-    openPR: 196
-    closedIssue: 20
-    openIssue: 110
-    commit: 3762
+    release: 35
+    mergedPR: 834
+    openPR: 203
+    closedIssue: 21
+    openIssue: 109
+    commit: 3786
   last180d:
     since: 2026-03-15
-    release: 70
-    mergedPR: 1452
-    openPR: 234
-    closedIssue: 52
-    openIssue: 149
-    commit: 5777
+    release: 71
+    mergedPR: 1462
+    openPR: 241
+    closedIssue: 53
+    openIssue: 148
+    commit: 5801
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 2574
-    openPR: 257
-    closedIssue: 82
-    openIssue: 182
-    commit: 9226
+    mergedPR: 2584
+    openPR: 264
+    closedIssue: 83
+    openIssue: 181
+    commit: 9250
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 5072
-    openPR: 268
-    closedIssue: 209
-    openIssue: 290
-    commit: 15735
+    mergedPR: 5082
+    openPR: 275
+    closedIssue: 210
+    openIssue: 289
+    commit: 15759
 total:
-  release: 579
-  mergedPR: 7895
-  openPR: 269
-  closedIssue: 2419
-  openIssue: 469
-  commit: 29527
+  release: 580
+  mergedPR: 7905
+  openPR: 276
+  closedIssue: 2420
+  openIssue: 468
+  commit: 29551
 ---
 path: /home/runner/.x-repo/github.com/weaviate/weaviate
-collectedAt: 2026-09-11T05:41:30Z
+collectedAt: 2026-09-11T19:13:54Z
 loc:
   Go:
-    code: 1070227
-    comments: 189495
-    blanks: 177599
-    files: 5183
+    code: 1070703
+    comments: 189593
+    blanks: 177661
+    files: 5185
   Json:
     code: 30879
     comments: 0
@@ -118,7 +118,7 @@ loc:
     blanks: 489
     files: 36
   Sh:
-    code: 4023
+    code: 4025
     comments: 578
     blanks: 635
     files: 40
@@ -198,10 +198,10 @@ loc:
     blanks: 3
     files: 2
 total:
-  code: 1132683
-  comments: 195937
-  blanks: 182722
-  files: 5449
+  code: 1133161
+  comments: 196035
+  blanks: 182784
+  files: 5451
 ---
 date: "2026-09-07"
 repo:
