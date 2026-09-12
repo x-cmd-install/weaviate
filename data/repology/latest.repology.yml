@@ -4,7 +4,7 @@
   visiblename: weaviate
   version: 1.39.3
   origversion: 1.39.3-1
-  status: newest
+  status: outdated
   summary: An open source vector database written in Go
   maintainers:
     - lmartinez-mirror@aur
@@ -16,7 +16,7 @@
   visiblename: weaviate-bin
   version: 1.39.3
   origversion: 1.39.3-1
-  status: newest
+  status: outdated
   summary: An open source vector database written in Go
   maintainers:
     - lmartinez-mirror@aur
@@ -28,7 +28,7 @@
   visiblename: databases/weaviate
   version: 1.39.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Vector database that stores both objects and vectors
   maintainers:
     - yuri@freebsd.org
@@ -37,7 +37,7 @@
 - repo: homebrew
   srcname: weaviate
   visiblename: weaviate
-  version: 1.39.3
+  version: 1.39.4
   origversion: null
   status: newest
   summary: Open-source vector database that stores both objects and vectors
@@ -52,6 +52,18 @@
     - fallback-mnt-nix@repology
   licenses:
     - BSD-3-Clause
+- repo: nix_stable_24_05
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.25.0
+  origversion: null
+  status: outdated
+  summary: The ML-first vector search engine
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
 - repo: nix_stable_24_11
   srcname: weaviate
   visiblename: weaviate
@@ -71,18 +83,6 @@
   origversion: null
   status: outdated
   summary: ML-first vector search engine
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - BSD-3-Clause
-  vulnerable: true
-- repo: nix_stable_24_05
-  srcname: weaviate
-  visiblename: weaviate
-  version: 1.25.0
-  origversion: null
-  status: outdated
-  summary: The ML-first vector search engine
   maintainers:
     - 7rat13@gmail.com
   licenses:
