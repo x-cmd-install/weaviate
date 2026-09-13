@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,801 · **Forks**: 1,399 · **Open issues**: 2,888 · **Contributors**: 165
+- **Stars**: 16,802 · **Forks**: 1,399 · **Open issues**: 2,888 · **Contributors**: 165
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 11 | 226 | 80 | 3 | 22 | 1038 |
-| last60d | 2026-07-14 | 24 | 516 | 152 | 11 | 80 | 2679 |
-| 90d | 2026-06-14 | 35 | 834 | 204 | 21 | 109 | 3786 |
-| last180d | 2026-03-16 | 71 | 1452 | 242 | 53 | 148 | 5801 |
-| 360d | 2025-09-17 | 100 | 2575 | 265 | 83 | 181 | 9250 |
-| last720d | 2024-09-22 | 100 | 5080 | 276 | 210 | 289 | 15754 |
+| 30d | 2026-08-14 | 11 | 218 | 79 | 3 | 21 | 755 |
+| last60d | 2026-07-15 | 24 | 493 | 148 | 9 | 78 | 2225 |
+| 90d | 2026-06-15 | 35 | 827 | 202 | 21 | 109 | 3575 |
+| last180d | 2026-03-17 | 71 | 1441 | 241 | 53 | 148 | 5677 |
+| 360d | 2025-09-18 | 100 | 2561 | 265 | 83 | 181 | 9110 |
+| last720d | 2024-09-23 | 100 | 5071 | 276 | 208 | 288 | 15752 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:27:52Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:40:30Z._
