@@ -14,15 +14,15 @@ x install weaviate
 
 ## Code insight
 
-Total: **1,137,040** lines of code across **5358** files in the top 5 languages.
+Total: **1,143,025** lines of code across **5369** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,074,714 | 190,184 | 178,119 | 5197 |
-| Json | 30,879 | 0 | 0 | 31 |
+| Go | 1,080,697 | 190,784 | 178,673 | 5208 |
+| Json | 30,812 | 0 | 0 | 31 |
 | Python | 14,027 | 1,001 | 2,122 | 54 |
 | AssemblyGAS | 7,108 | 381 | 489 | 36 |
-| Sh | 4,025 | 578 | 635 | 40 |
+| Sh | 4,103 | 581 | 643 | 40 |
 
 ## OpenSSF Scorecard
 
@@ -42,42 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.38.15` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Latest**: `v1.40.0-rc.0` (2026-09-15)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,811 · **Forks**: 1,401 · **Open issues**: 2,890 · **Contributors**: 165
+- **Stars**: 16,814 · **Forks**: 1,400 · **Open issues**: 2,892 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 582 · **Merged PRs**: 7924 · **Open PRs**: 280 · **Closed issues**: 2420 · **Open issues**: 470 · **Commits**: 29615
+- **Releases**: 584 · **Merged PRs**: 7947 · **Open PRs**: 285 · **Closed issues**: 2420 · **Open issues**: 472 · **Commits**: 29762
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 13 | 237 | 80 | 3 | 23 | 821 |
-| last60d | 2026-07-17 | 23 | 475 | 143 | 9 | 78 | 2291 |
-| 90d | 2026-06-17 | 36 | 810 | 203 | 20 | 96 | 3641 |
-| last180d | 2026-03-19 | 73 | 1445 | 243 | 52 | 149 | 5743 |
-| 360d | 2025-09-20 | 100 | 2570 | 268 | 83 | 183 | 9176 |
-| last720d | 2024-09-25 | 100 | 5081 | 279 | 207 | 287 | 15779 |
+| 30d | 2026-08-17 | 15 | 247 | 83 | 3 | 23 | 968 |
+| last60d | 2026-07-18 | 24 | 497 | 145 | 9 | 80 | 2438 |
+| 90d | 2026-06-18 | 37 | 816 | 206 | 20 | 97 | 3788 |
+| last180d | 2026-03-20 | 73 | 1460 | 248 | 52 | 151 | 5890 |
+| 360d | 2025-09-21 | 100 | 2593 | 273 | 83 | 185 | 9323 |
+| last720d | 2024-09-26 | 100 | 5095 | 284 | 206 | 289 | 15910 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [weaviate-v1.39.4-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-darwin-all.zip) | 137.3 MiB | `native/darwin/x64` |
-| [weaviate-v1.39.4-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
-| [weaviate-v1.39.4-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
-| [weaviate-v1.39.4-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-linux-amd64.tar.gz) | 69.6 MiB | `native/linux/x64` |
-| [weaviate-v1.39.4-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [weaviate-v1.39.4-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
-| [weaviate-v1.39.4-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-linux-arm64.tar.gz) | 66.1 MiB | `native/linux/arm64` |
-| [weaviate-v1.39.4-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
-| [weaviate-v1.39.4-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.4/weaviate-v1.39.4-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
+| [weaviate-v1.39.5-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-darwin-all.zip) | 137.3 MiB | `native/darwin/x64` |
+| [weaviate-v1.39.5-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
+| [weaviate-v1.39.5-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
+| [weaviate-v1.39.5-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-amd64.tar.gz) | 69.7 MiB | `native/linux/x64` |
+| [weaviate-v1.39.5-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [weaviate-v1.39.5-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
+| [weaviate-v1.39.5-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-arm64.tar.gz) | 66.1 MiB | `native/linux/arm64` |
+| [weaviate-v1.39.5-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [weaviate-v1.39.5-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:52:19Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:52:02Z._
