@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:0e70895123a33ee11a62b255737a1e4b2bc6fb9fe003cebca936e82f55674b5e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-15T07:34:24Z",
       "updated_at": "2026-09-15T07:34:25Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-darwin-all.zip.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 73044229,
       "digest": "sha256:6f41f77b021a3e17401038b6a3c4938de6353fdac783c1dfebd820104f2b19b1",
-      "download_count": 185,
+      "download_count": 347,
       "created_at": "2026-09-15T08:27:29Z",
       "updated_at": "2026-09-15T08:27:31Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:4387ca6d3dcee022c3adf1a20e98587adcba3e061b3e0655d549c0c947bf4d35",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-15T08:27:32Z",
       "updated_at": "2026-09-15T08:27:32Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-amd64.tar.gz.md5"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:96b3f31360f32c03a09c56b081e2f40c55d2646c23545315ad5fd39e12f0b1b8",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-15T08:27:33Z",
       "updated_at": "2026-09-15T08:27:33Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-amd64.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 69336555,
       "digest": "sha256:6d4e60d2fd150486acadec911e818439aae5cbb38ce9fa412926df81080d1b23",
-      "download_count": 31,
+      "download_count": 51,
       "created_at": "2026-09-15T08:26:43Z",
       "updated_at": "2026-09-15T08:26:46Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:56b7af314577583bcbc791c9f37a639ee3b4938b4abd69e5d72a9b80c6232d25",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-15T08:26:48Z",
       "updated_at": "2026-09-15T08:26:48Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.5/weaviate-v1.39.5-linux-arm64.tar.gz.sha256"
