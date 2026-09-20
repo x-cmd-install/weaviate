@@ -4,7 +4,7 @@
 
 Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 
-![weaviate](https://repo.x-cmd.io/weaviate.svg?lang=zh)
+[![x-cmd/install — weaviate Code Quality Monitoring Repo Card](https://repo.x-cmd.io/weaviate.svg?lang=zh)](https://x-cmd.com/install/weaviate)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install weaviate
 
 ## 代码洞察
 
-合计: **1,152,791** 行代码（覆盖前 5 种语言、共 **5400** 个文件）。
+合计: **1,153,696** 行代码（覆盖前 5 种语言、共 **5403** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,090,400 | 192,499 | 180,106 | 5239 |
-| Json | 30,842 | 0 | 0 | 31 |
+| Go | 1,091,304 | 192,703 | 180,263 | 5242 |
+| Json | 30,843 | 0 | 0 | 31 |
 | Python | 14,027 | 1,001 | 2,122 | 54 |
 | AssemblyGAS | 7,108 | 381 | 489 | 36 |
 | Sh | 4,119 | 581 | 643 | 40 |
@@ -42,28 +42,28 @@ x install weaviate
 
 ## 发布
 
-- **最新版本**: `v1.40.0-rc.0` (2026-09-15)
+- **最新版本**: `v1.40.0-rc.1` (2026-09-18)
 - **最近提交**: 2026-09-18
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 16,819 · **Fork**: 1,403 · **开放 issue**: 2,892 · **贡献者**: 165
+- **Star**: 16,826 · **Fork**: 1,404 · **开放 issue**: 2,893 · **贡献者**: 164
 
 ## 累计统计
 
-- **发布数**: 584 · **已合并 PR**: 7988 · **开放 PR**: 264 · **已关闭 issue**: 2420 · **开放 issue**: 472 · **提交数**: 29907
+- **发布数**: 586 · **已合并 PR**: 8005 · **开放 PR**: 269 · **已关闭 issue**: 2420 · **开放 issue**: 473 · **提交数**: 29963
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 14 | 274 | 61 | 3 | 23 | 1116 |
-| last60d | 2026-07-20 | 24 | 524 | 122 | 8 | 76 | 2587 |
-| 90d | 2026-06-20 | 36 | 844 | 183 | 20 | 95 | 3937 |
-| last180d | 2026-03-22 | 73 | 1500 | 227 | 52 | 151 | 6039 |
-| 360d | 2025-09-23 | 100 | 2609 | 252 | 80 | 184 | 9472 |
-| last720d | 2024-09-28 | 100 | 5128 | 263 | 205 | 288 | 16005 |
+| 30d | 2026-08-21 | 15 | 265 | 64 | 2 | 23 | 917 |
+| last60d | 2026-07-22 | 24 | 517 | 122 | 7 | 76 | 2328 |
+| 90d | 2026-06-22 | 38 | 846 | 187 | 20 | 96 | 3745 |
+| last180d | 2026-03-24 | 75 | 1492 | 232 | 52 | 152 | 5944 |
+| 360d | 2025-09-25 | 100 | 2620 | 257 | 79 | 185 | 9491 |
+| last720d | 2024-09-30 | 100 | 5143 | 268 | 205 | 289 | 16060 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ weaviate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:45:25Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:53:12Z._

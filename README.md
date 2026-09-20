@@ -4,7 +4,7 @@
 
 Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 
-![weaviate](https://repo.x-cmd.io/weaviate.svg)
+[![x-cmd/install — weaviate Code Quality Monitoring Repo Card](https://repo.x-cmd.io/weaviate.svg)](https://x-cmd.com/install/weaviate)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install weaviate
 
 ## Code insight
 
-Total: **1,152,791** lines of code across **5400** files in the top 5 languages.
+Total: **1,153,696** lines of code across **5403** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,090,400 | 192,499 | 180,106 | 5239 |
-| Json | 30,842 | 0 | 0 | 31 |
+| Go | 1,091,304 | 192,703 | 180,263 | 5242 |
+| Json | 30,843 | 0 | 0 | 31 |
 | Python | 14,027 | 1,001 | 2,122 | 54 |
 | AssemblyGAS | 7,108 | 381 | 489 | 36 |
 | Sh | 4,119 | 581 | 643 | 40 |
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.40.0-rc.0` (2026-09-15)
+- **Latest**: `v1.40.0-rc.1` (2026-09-18)
 - **Last commit**: 2026-09-18
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,819 · **Forks**: 1,403 · **Open issues**: 2,892 · **Contributors**: 165
+- **Stars**: 16,826 · **Forks**: 1,404 · **Open issues**: 2,893 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 584 · **Merged PRs**: 7988 · **Open PRs**: 264 · **Closed issues**: 2420 · **Open issues**: 472 · **Commits**: 29907
+- **Releases**: 586 · **Merged PRs**: 8005 · **Open PRs**: 269 · **Closed issues**: 2420 · **Open issues**: 473 · **Commits**: 29963
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 14 | 274 | 61 | 3 | 23 | 1116 |
-| last60d | 2026-07-20 | 24 | 524 | 122 | 8 | 76 | 2587 |
-| 90d | 2026-06-20 | 36 | 844 | 183 | 20 | 95 | 3937 |
-| last180d | 2026-03-22 | 73 | 1500 | 227 | 52 | 151 | 6039 |
-| 360d | 2025-09-23 | 100 | 2609 | 252 | 80 | 184 | 9472 |
-| last720d | 2024-09-28 | 100 | 5128 | 263 | 205 | 288 | 16005 |
+| 30d | 2026-08-21 | 15 | 265 | 64 | 2 | 23 | 917 |
+| last60d | 2026-07-22 | 24 | 517 | 122 | 7 | 76 | 2328 |
+| 90d | 2026-06-22 | 38 | 846 | 187 | 20 | 96 | 3745 |
+| last180d | 2026-03-24 | 75 | 1492 | 232 | 52 | 152 | 5944 |
+| 360d | 2025-09-25 | 100 | 2620 | 257 | 79 | 185 | 9491 |
+| last720d | 2024-09-30 | 100 | 5143 | 268 | 205 | 289 | 16060 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:45:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:11Z._
