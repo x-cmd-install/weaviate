@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 144008074,
       "digest": "sha256:ea244d7cc75f1812acc525d14fbb3d37b19c3b226da4fcae4b280e0dc9d412ad",
-      "download_count": 6,
+      "download_count": 17,
       "created_at": "2026-09-22T14:37:27Z",
       "updated_at": "2026-09-22T14:37:36Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-darwin-all.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 73051664,
       "digest": "sha256:ab49a89929365bb44ea3fe3579b79cac0091574015c1d0bec817979d92837354",
-      "download_count": 269,
+      "download_count": 339,
       "created_at": "2026-09-22T14:58:42Z",
       "updated_at": "2026-09-22T14:58:44Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:842b55d0f30f43995d6478a38095f5ed3766548413245249b932f96aee79f069",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-22T14:58:45Z",
       "updated_at": "2026-09-22T14:58:45Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-amd64.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 69356436,
       "digest": "sha256:afd8c968a8c1036f4839588bc9562e70741e9b3a3b48f32503f405f9dc20d0f0",
-      "download_count": 28,
+      "download_count": 36,
       "created_at": "2026-09-22T14:58:41Z",
       "updated_at": "2026-09-22T14:58:43Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-arm64.tar.gz"
