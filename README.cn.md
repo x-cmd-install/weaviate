@@ -42,42 +42,42 @@ x install weaviate
 
 ## 发布
 
-- **最新版本**: `v1.39.6` (2026-09-22)
+- **最新版本**: `v1.39.7` (2026-09-25)
 - **最近提交**: 2026-09-24
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 16,844 · **Fork**: 1,408 · **开放 issue**: 2,894 · **贡献者**: 165
+- **Star**: 16,847 · **Fork**: 1,409 · **开放 issue**: 2,896 · **贡献者**: 165
 
 ## 累计统计
 
-- **发布数**: 588 · **已合并 PR**: 8098 · **开放 PR**: 269 · **已关闭 issue**: 2421 · **开放 issue**: 473 · **提交数**: 30314
+- **发布数**: 589 · **已合并 PR**: 8100 · **开放 PR**: 276 · **已关闭 issue**: 2421 · **开放 issue**: 475 · **提交数**: 30314
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 15 | 316 | 65 | 1 | 23 | 1300 |
-| last60d | 2026-07-27 | 25 | 572 | 116 | 7 | 77 | 2721 |
-| 90d | 2026-06-27 | 37 | 894 | 180 | 19 | 96 | 4138 |
-| last180d | 2026-03-29 | 74 | 1571 | 233 | 51 | 153 | 6337 |
-| 360d | 2025-09-30 | 100 | 2697 | 257 | 77 | 185 | 9884 |
-| last720d | 2024-10-05 | 100 | 5229 | 268 | 205 | 287 | 16383 |
+| 30d | 2026-08-27 | 15 | 303 | 71 | 1 | 25 | 1300 |
+| last60d | 2026-07-28 | 24 | 559 | 119 | 7 | 79 | 2721 |
+| 90d | 2026-06-28 | 38 | 895 | 187 | 19 | 98 | 4138 |
+| last180d | 2026-03-30 | 75 | 1570 | 239 | 51 | 155 | 6337 |
+| 360d | 2025-10-01 | 100 | 2692 | 264 | 77 | 187 | 9884 |
+| last720d | 2024-10-06 | 100 | 5231 | 275 | 205 | 289 | 16382 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [weaviate-v1.39.6-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-darwin-all.zip) | 137.3 MiB | `native/darwin/x64` |
-| [weaviate-v1.39.6-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
-| [weaviate-v1.39.6-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
-| [weaviate-v1.39.6-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-amd64.tar.gz) | 69.7 MiB | `native/linux/x64` |
-| [weaviate-v1.39.6-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [weaviate-v1.39.6-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
-| [weaviate-v1.39.6-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-arm64.tar.gz) | 66.1 MiB | `native/linux/arm64` |
-| [weaviate-v1.39.6-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
-| [weaviate-v1.39.6-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.6/weaviate-v1.39.6-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
+| [weaviate-v1.39.7-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-darwin-all.zip) | 137.4 MiB | `native/darwin/x64` |
+| [weaviate-v1.39.7-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
+| [weaviate-v1.39.7-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
+| [weaviate-v1.39.7-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-linux-amd64.tar.gz) | 69.7 MiB | `native/linux/x64` |
+| [weaviate-v1.39.7-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [weaviate-v1.39.7-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
+| [weaviate-v1.39.7-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-linux-arm64.tar.gz) | 66.2 MiB | `native/linux/arm64` |
+| [weaviate-v1.39.7-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [weaviate-v1.39.7-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.7/weaviate-v1.39.7-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -88,4 +88,4 @@ weaviate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260925.yml` · 2026-09-25T05:42:23Z._
+_数据快照: `data/card/260926.yml` · 2026-09-26T05:39:31Z._
