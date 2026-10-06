@@ -14,11 +14,11 @@ x install weaviate
 
 ## 代码洞察
 
-合计: **1,192,850** 行代码（覆盖前 5 种语言、共 **5550** 个文件）。
+合计: **1,200,017** 行代码（覆盖前 5 种语言、共 **5571** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,130,238 | 197,537 | 185,548 | 5389 |
+| Go | 1,137,405 | 198,582 | 186,645 | 5410 |
 | Json | 31,041 | 0 | 0 | 31 |
 | Python | 14,035 | 1,002 | 2,126 | 54 |
 | AssemblyGAS | 7,108 | 381 | 489 | 36 |
@@ -42,42 +42,42 @@ x install weaviate
 
 ## 发布
 
-- **最新版本**: `v1.39.8` (2026-10-01)
-- **最近提交**: 2026-10-01
+- **最新版本**: `v1.39.9` (2026-10-05)
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 16,866 · **Fork**: 1,419 · **开放 issue**: 2,907 · **贡献者**: 166
+- **Star**: 16,864 · **Fork**: 1,421 · **开放 issue**: 2,913 · **贡献者**: 166
 
 ## 累计统计
 
-- **发布数**: 592 · **已合并 PR**: 8166 · **开放 PR**: 317 · **已关闭 issue**: 2424 · **开放 issue**: 483 · **提交数**: 30547
+- **发布数**: 593 · **已合并 PR**: 8184 · **开放 PR**: 318 · **已关闭 issue**: 2425 · **开放 issue**: 488 · **提交数**: 30642
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 16 | 291 | 102 | 3 | 24 | 897 |
-| last60d | 2026-08-06 | 24 | 537 | 152 | 9 | 81 | 2380 |
-| 90d | 2026-07-07 | 39 | 863 | 211 | 15 | 103 | 3866 |
-| last180d | 2026-04-08 | 75 | 1575 | 280 | 51 | 163 | 6346 |
-| 360d | 2025-10-10 | 100 | 2708 | 304 | 77 | 193 | 9925 |
-| last720d | 2024-10-15 | 100 | 5225 | 316 | 201 | 294 | 16438 |
+| 30d | 2026-09-06 | 17 | 309 | 102 | 3 | 30 | 1011 |
+| last60d | 2026-08-07 | 24 | 552 | 152 | 9 | 86 | 2495 |
+| 90d | 2026-07-08 | 40 | 867 | 211 | 15 | 109 | 3981 |
+| last180d | 2026-04-09 | 76 | 1586 | 281 | 52 | 168 | 6461 |
+| 360d | 2025-10-11 | 100 | 2726 | 305 | 78 | 198 | 10040 |
+| last720d | 2024-10-16 | 100 | 5234 | 317 | 202 | 299 | 16485 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [weaviate-v1.39.8-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-darwin-all.zip) | 137.5 MiB | `native/darwin/x64` |
-| [weaviate-v1.39.8-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
-| [weaviate-v1.39.8-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
-| [weaviate-v1.39.8-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-linux-amd64.tar.gz) | 69.8 MiB | `native/linux/x64` |
-| [weaviate-v1.39.8-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [weaviate-v1.39.8-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
-| [weaviate-v1.39.8-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-linux-arm64.tar.gz) | 66.2 MiB | `native/linux/arm64` |
-| [weaviate-v1.39.8-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
-| [weaviate-v1.39.8-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.8/weaviate-v1.39.8-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
+| [weaviate-v1.39.9-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-darwin-all.zip) | 137.6 MiB | `native/darwin/x64` |
+| [weaviate-v1.39.9-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
+| [weaviate-v1.39.9-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
+| [weaviate-v1.39.9-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-linux-amd64.tar.gz) | 69.8 MiB | `native/linux/x64` |
+| [weaviate-v1.39.9-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [weaviate-v1.39.9-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
+| [weaviate-v1.39.9-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-linux-arm64.tar.gz) | 66.3 MiB | `native/linux/arm64` |
+| [weaviate-v1.39.9-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [weaviate-v1.39.9-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.39.9/weaviate-v1.39.9-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -88,4 +88,4 @@ weaviate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:17:53Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:08:05Z._
