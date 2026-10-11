@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 73944127,
       "digest": "sha256:33172afa651001dc21db038cde7b1ff9689388944d96bf1b2fac6e09ebe36189",
-      "download_count": 413,
+      "download_count": 453,
       "created_at": "2026-10-07T07:00:29Z",
       "updated_at": "2026-10-07T07:00:31Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.40.0/weaviate-v1.40.0-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:6efa12c613218d2dba72c56bf1f540cd63128717d832854de75cc27cdb7f574f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-07T07:00:33Z",
       "updated_at": "2026-10-07T07:00:33Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.40.0/weaviate-v1.40.0-linux-amd64.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 70145625,
       "digest": "sha256:9abe2c511b19baada2804a373987b89987994189acf0199425b1146625ffc37a",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-07T07:00:41Z",
       "updated_at": "2026-10-07T07:00:43Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.40.0/weaviate-v1.40.0-linux-arm64.tar.gz"
