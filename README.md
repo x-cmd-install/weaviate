@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,879 · **Forks**: 1,420 · **Open issues**: 2,915 · **Contributors**: 166
+- **Stars**: 16,884 · **Forks**: 1,421 · **Open issues**: 2,915 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 601 · **Merged PRs**: 8259 · **Open PRs**: 311 · **Closed issues**: 2427 · **Open issues**: 488 · **Commits**: 30926
+- **Releases**: 601 · **Merged PRs**: 8265 · **Open PRs**: 310 · **Closed issues**: 2429 · **Open issues**: 486 · **Commits**: 30926
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 21 | 303 | 89 | 3 | 22 | 921 |
-| last60d | 2026-08-15 | 32 | 566 | 127 | 6 | 43 | 2310 |
-| 90d | 2026-07-16 | 43 | 831 | 187 | 12 | 99 | 3913 |
-| last180d | 2026-04-17 | 80 | 1587 | 273 | 53 | 166 | 6670 |
-| 360d | 2025-10-19 | 100 | 2753 | 299 | 78 | 196 | 10269 |
-| last720d | 2024-10-24 | 100 | 5263 | 310 | 197 | 295 | 16628 |
+| 30d | 2026-09-15 | 19 | 280 | 88 | 3 | 18 | 921 |
+| last60d | 2026-08-16 | 32 | 572 | 126 | 8 | 41 | 2310 |
+| 90d | 2026-07-17 | 42 | 812 | 183 | 14 | 96 | 3913 |
+| last180d | 2026-04-18 | 76 | 1593 | 272 | 55 | 164 | 6670 |
+| 360d | 2025-10-20 | 100 | 2754 | 297 | 80 | 194 | 10269 |
+| last720d | 2024-10-25 | 100 | 5261 | 309 | 199 | 292 | 16609 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:43:09Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:18:38Z._
