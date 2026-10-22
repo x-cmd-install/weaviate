@@ -32,7 +32,7 @@ x install weaviate
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install weaviate
 
 ## 流行度
 
-- **Star**: 16,894 · **Fork**: 1,423 · **开放 issue**: 2,920 · **贡献者**: 166
+- **Star**: 16,899 · **Fork**: 1,427 · **开放 issue**: 2,921 · **贡献者**: 166
 
 ## 累计统计
 
-- **发布数**: 601 · **已合并 PR**: 8292 · **开放 PR**: 303 · **已关闭 issue**: 2429 · **开放 issue**: 491 · **提交数**: 31004
+- **发布数**: 601 · **已合并 PR**: 8299 · **开放 PR**: 306 · **已关闭 issue**: 2429 · **开放 issue**: 492 · **提交数**: 31004
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 15 | 236 | 71 | 3 | 19 | 678 |
-| last60d | 2026-08-22 | 30 | 547 | 113 | 7 | 43 | 2213 |
-| 90d | 2026-07-23 | 39 | 792 | 166 | 12 | 96 | 3641 |
-| last180d | 2026-04-24 | 75 | 1592 | 264 | 52 | 169 | 6646 |
-| 360d | 2025-10-26 | 100 | 2752 | 290 | 77 | 199 | 10247 |
-| last720d | 2024-10-31 | 100 | 5251 | 302 | 197 | 294 | 16575 |
+| 30d | 2026-09-22 | 15 | 223 | 71 | 3 | 20 | 678 |
+| last60d | 2026-08-23 | 30 | 554 | 116 | 7 | 44 | 2213 |
+| 90d | 2026-07-24 | 38 | 792 | 169 | 12 | 97 | 3641 |
+| last180d | 2026-04-25 | 75 | 1597 | 266 | 52 | 170 | 6646 |
+| 360d | 2025-10-27 | 100 | 2743 | 293 | 77 | 199 | 10247 |
+| last720d | 2024-11-01 | 100 | 5255 | 305 | 197 | 295 | 16540 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ weaviate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:27:48Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:21:37Z._
