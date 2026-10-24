@@ -2,9 +2,9 @@
   srcname: weaviate
   binname: weaviate
   visiblename: weaviate
-  version: 1.40.1
-  origversion: 1.40.1-1
-  status: outdated
+  version: 1.40.2
+  origversion: 1.40.2-1
+  status: newest
   summary: An open source vector database written in Go
   maintainers:
     - lmartinez-mirror@aur
@@ -14,9 +14,9 @@
   srcname: weaviate-bin
   binname: weaviate-bin
   visiblename: weaviate-bin
-  version: 1.40.1
-  origversion: 1.40.1-1
-  status: outdated
+  version: 1.40.2
+  origversion: 1.40.2-1
+  status: newest
   summary: An open source vector database written in Go
   maintainers:
     - lmartinez-mirror@aur
