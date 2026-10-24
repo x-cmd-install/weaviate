@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.38.22` (2026-10-22)
+- **Latest**: `v1.36.24` (2026-10-23)
 - **Last commit**: 2026-10-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,905 · **Forks**: 1,427 · **Open issues**: 2,921 · **Contributors**: 166
+- **Stars**: 16,908 · **Forks**: 1,428 · **Open issues**: 2,921 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 604 · **Merged PRs**: 8300 · **Open PRs**: 313 · **Closed issues**: 2429 · **Open issues**: 492 · **Commits**: 31004
+- **Releases**: 605 · **Merged PRs**: 8305 · **Open PRs**: 313 · **Closed issues**: 2429 · **Open issues**: 492 · **Commits**: 31004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 16 | 200 | 76 | 3 | 20 | 678 |
-| last60d | 2026-08-24 | 33 | 540 | 122 | 7 | 44 | 2213 |
-| 90d | 2026-07-25 | 41 | 791 | 171 | 12 | 97 | 3641 |
-| last180d | 2026-04-26 | 78 | 1598 | 273 | 52 | 170 | 6646 |
-| 360d | 2025-10-28 | 100 | 2739 | 299 | 77 | 199 | 10247 |
-| last720d | 2024-11-02 | 100 | 5255 | 312 | 197 | 295 | 16532 |
+| 30d | 2026-09-24 | 17 | 189 | 75 | 3 | 20 | 678 |
+| last60d | 2026-08-25 | 34 | 539 | 121 | 6 | 44 | 2213 |
+| 90d | 2026-07-26 | 42 | 794 | 170 | 12 | 97 | 3641 |
+| last180d | 2026-04-27 | 79 | 1596 | 273 | 52 | 170 | 6646 |
+| 360d | 2025-10-29 | 100 | 2736 | 299 | 77 | 198 | 10247 |
+| last720d | 2024-11-03 | 100 | 5260 | 312 | 197 | 295 | 16530 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:34:12Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:13:27Z._
