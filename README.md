@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 17 | 189 | 75 | 3 | 20 | 678 |
-| last60d | 2026-08-25 | 34 | 539 | 121 | 6 | 44 | 2213 |
-| 90d | 2026-07-26 | 42 | 794 | 170 | 12 | 97 | 3641 |
-| last180d | 2026-04-27 | 79 | 1596 | 273 | 52 | 170 | 6646 |
-| 360d | 2025-10-29 | 100 | 2736 | 299 | 77 | 198 | 10247 |
-| last720d | 2024-11-03 | 100 | 5260 | 312 | 197 | 295 | 16530 |
+| 30d | 2026-09-25 | 17 | 183 | 74 | 2 | 19 | 378 |
+| last60d | 2026-08-26 | 32 | 522 | 120 | 6 | 43 | 1905 |
+| 90d | 2026-07-27 | 42 | 778 | 167 | 12 | 97 | 3355 |
+| last180d | 2026-04-28 | 79 | 1587 | 272 | 52 | 170 | 6517 |
+| 360d | 2025-10-30 | 100 | 2732 | 298 | 77 | 198 | 10068 |
+| last720d | 2024-11-04 | 100 | 5249 | 312 | 197 | 295 | 16530 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:13:27Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:22:23Z._
