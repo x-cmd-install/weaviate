@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.36.24` (2026-10-23)
+- **Latest**: `v1.37.18` (2026-10-25)
 - **Last commit**: 2026-10-16
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,908 · **Forks**: 1,428 · **Open issues**: 2,921 · **Contributors**: 166
+- **Stars**: 16,914 · **Forks**: 1,429 · **Open issues**: 2,925 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 605 · **Merged PRs**: 8305 · **Open PRs**: 313 · **Closed issues**: 2429 · **Open issues**: 492 · **Commits**: 31004
+- **Releases**: 606 · **Merged PRs**: 8306 · **Open PRs**: 314 · **Closed issues**: 2429 · **Open issues**: 496 · **Commits**: 31004
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 17 | 183 | 74 | 2 | 19 | 378 |
-| last60d | 2026-08-26 | 32 | 522 | 120 | 6 | 43 | 1905 |
-| 90d | 2026-07-27 | 42 | 778 | 167 | 12 | 97 | 3355 |
-| last180d | 2026-04-28 | 79 | 1587 | 272 | 52 | 170 | 6517 |
-| 360d | 2025-10-30 | 100 | 2732 | 298 | 77 | 198 | 10068 |
-| last720d | 2024-11-04 | 100 | 5249 | 312 | 197 | 295 | 16530 |
+| 30d | 2026-09-26 | 17 | 184 | 74 | 2 | 23 | 378 |
+| last60d | 2026-08-27 | 32 | 507 | 121 | 6 | 47 | 1905 |
+| 90d | 2026-07-28 | 41 | 764 | 164 | 12 | 101 | 3355 |
+| last180d | 2026-04-29 | 80 | 1580 | 273 | 52 | 174 | 6517 |
+| 360d | 2025-10-31 | 100 | 2722 | 299 | 76 | 202 | 10068 |
+| last720d | 2024-11-05 | 100 | 5231 | 313 | 196 | 298 | 16497 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:22:23Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:21:16Z._
