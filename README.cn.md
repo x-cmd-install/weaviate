@@ -14,15 +14,15 @@ x install weaviate
 
 ## 代码洞察
 
-合计: **1,220,339** 行代码（覆盖前 5 种语言、共 **5649** 个文件）。
+合计: **1,226,176** 行代码（覆盖前 5 种语言、共 **5679** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 1,157,593 | 201,334 | 189,156 | 5488 |
-| Json | 31,149 | 0 | 0 | 31 |
-| Python | 14,035 | 1,002 | 2,126 | 54 |
+| Go | 1,163,857 | 202,427 | 189,858 | 5518 |
+| Json | 30,718 | 0 | 0 | 31 |
+| Python | 14,037 | 1,002 | 2,126 | 54 |
 | AssemblyGAS | 7,108 | 381 | 489 | 36 |
-| Sh | 4,156 | 582 | 650 | 40 |
+| Sh | 4,158 | 582 | 650 | 40 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,50 +42,50 @@ x install weaviate
 
 ## 发布
 
-- **最新版本**: `v1.39.14` (2026-10-27)
-- **最近提交**: 2026-10-27
+- **最新版本**: `v1.40.3` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 16,924 · **Fork**: 1,429 · **开放 issue**: 2,928 · **贡献者**: 166
+- **Star**: 16,925 · **Fork**: 1,430 · **开放 issue**: 2,928 · **贡献者**: 166
 
 ## 累计统计
 
-- **发布数**: 608 · **已合并 PR**: 8326 · **开放 PR**: 310 · **已关闭 issue**: 2430 · **开放 issue**: 498 · **提交数**: 31017
+- **发布数**: 609 · **已合并 PR**: 8336 · **开放 PR**: 313 · **已关闭 issue**: 2431 · **开放 issue**: 497 · **提交数**: 31188
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 19 | 187 | 65 | 3 | 24 | 391 |
-| last60d | 2026-08-29 | 32 | 515 | 116 | 7 | 49 | 1918 |
-| 90d | 2026-07-30 | 41 | 768 | 157 | 12 | 103 | 3368 |
-| last180d | 2026-05-01 | 82 | 1590 | 269 | 53 | 176 | 6530 |
-| 360d | 2025-11-02 | 100 | 2738 | 295 | 77 | 204 | 10081 |
-| last720d | 2024-11-07 | 100 | 5217 | 309 | 195 | 299 | 16401 |
+| 30d | 2026-09-29 | 20 | 184 | 63 | 4 | 17 | 569 |
+| last60d | 2026-08-30 | 33 | 525 | 119 | 8 | 48 | 2107 |
+| 90d | 2026-07-31 | 42 | 770 | 160 | 13 | 102 | 3559 |
+| last180d | 2026-05-02 | 83 | 1600 | 272 | 54 | 175 | 6721 |
+| 360d | 2025-11-03 | 100 | 2734 | 298 | 78 | 202 | 10272 |
+| last720d | 2024-11-08 | 100 | 5202 | 312 | 195 | 298 | 16517 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [weaviate-v1.40.2-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-darwin-all.zip) | 139.1 MiB | `native/darwin/x64` |
-| [weaviate-v1.40.2-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
-| [weaviate-v1.40.2-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
-| [weaviate-v1.40.2-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-linux-amd64.tar.gz) | 70.6 MiB | `native/linux/x64` |
-| [weaviate-v1.40.2-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [weaviate-v1.40.2-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
-| [weaviate-v1.40.2-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-linux-arm64.tar.gz) | 67.0 MiB | `native/linux/arm64` |
-| [weaviate-v1.40.2-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
-| [weaviate-v1.40.2-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.40.2/weaviate-v1.40.2-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
+| [weaviate-v1.40.3-darwin-all.zip](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-darwin-all.zip) | 145.4 MiB | `native/darwin/x64` |
+| [weaviate-v1.40.3-darwin-all.zip.md5](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-darwin-all.zip.md5) | 33 B | `native/darwin/x64` |
+| [weaviate-v1.40.3-darwin-all.zip.sha256](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-darwin-all.zip.sha256) | 65 B | `native/darwin/x64` |
+| [weaviate-v1.40.3-linux-amd64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-linux-amd64.tar.gz) | 73.7 MiB | `native/linux/x64` |
+| [weaviate-v1.40.3-linux-amd64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [weaviate-v1.40.3-linux-amd64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-linux-amd64.tar.gz.sha256) | 65 B | `native/linux/x64` |
+| [weaviate-v1.40.3-linux-arm64.tar.gz](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-linux-arm64.tar.gz) | 70.1 MiB | `native/linux/arm64` |
+| [weaviate-v1.40.3-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [weaviate-v1.40.3-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.40.3/weaviate-v1.40.3-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/weaviate) 上共有 **10** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/weaviate) 上共有 **10** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `1.40.2` | ✅ latest |
+| Homebrew | `1.40.3` | ✅ latest |
 | Nix unstable | `1.39.2` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -97,4 +97,4 @@ weaviate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T06:26:02Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T06:30:04Z._
