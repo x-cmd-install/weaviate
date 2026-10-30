@@ -14,7 +14,7 @@ x install weaviate
 
 ## Code insight
 
-Total: **1,226,176** lines of code across **5679** files in the top 5 languages.
+Total: **1,226,198** lines of code across **5680** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **1,226,176** lines of code across **5679** files in the top 5 languages.
 | Json | 30,718 | 0 | 0 | 31 |
 | Python | 14,037 | 1,002 | 2,126 | 54 |
 | AssemblyGAS | 7,108 | 381 | 489 | 36 |
-| Sh | 4,158 | 582 | 650 | 40 |
+| Sh | 4,178 | 587 | 654 | 41 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.40.3` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-30
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,925 · **Forks**: 1,430 · **Open issues**: 2,928 · **Contributors**: 166
+- **Stars**: 16,930 · **Forks**: 1,430 · **Open issues**: 2,928 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 609 · **Merged PRs**: 8336 · **Open PRs**: 313 · **Closed issues**: 2431 · **Open issues**: 497 · **Commits**: 31188
+- **Releases**: 609 · **Merged PRs**: 8346 · **Open PRs**: 323 · **Closed issues**: 2431 · **Open issues**: 497 · **Commits**: 31189
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 20 | 184 | 63 | 4 | 17 | 569 |
-| last60d | 2026-08-30 | 33 | 525 | 119 | 8 | 48 | 2107 |
-| 90d | 2026-07-31 | 42 | 770 | 160 | 13 | 102 | 3559 |
-| last180d | 2026-05-02 | 83 | 1600 | 272 | 54 | 175 | 6721 |
-| 360d | 2025-11-03 | 100 | 2734 | 298 | 78 | 202 | 10272 |
-| last720d | 2024-11-08 | 100 | 5202 | 312 | 195 | 298 | 16517 |
+| 30d | 2026-09-30 | 20 | 180 | 70 | 4 | 17 | 570 |
+| last60d | 2026-08-31 | 33 | 525 | 128 | 8 | 48 | 2108 |
+| 90d | 2026-08-01 | 42 | 776 | 170 | 13 | 102 | 3560 |
+| last180d | 2026-05-03 | 83 | 1610 | 282 | 54 | 175 | 6722 |
+| 360d | 2025-11-04 | 100 | 2728 | 308 | 78 | 202 | 10273 |
+| last720d | 2024-11-09 | 100 | 5212 | 322 | 194 | 298 | 16449 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:30:03Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:31:28Z._
