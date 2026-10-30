@@ -26,9 +26,9 @@
   srcname: databases/weaviate
   binname: weaviate
   visiblename: databases/weaviate
-  version: 1.40.2
+  version: 1.40.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Vector database that stores both objects and vectors
   maintainers:
     - yuri@freebsd.org
@@ -52,6 +52,18 @@
     - fallback-mnt-nix@repology
   licenses:
     - BSD-3-Clause
+- repo: nix_stable_25_05
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.30.2
+  origversion: null
+  status: outdated
+  summary: ML-first vector search engine
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - BSD-3-Clause
+  vulnerable: true
 - repo: nix_stable_25_11
   srcname: weaviate
   visiblename: weaviate
@@ -80,18 +92,6 @@
   srcname: weaviate
   visiblename: weaviate
   version: 1.26.6
-  origversion: null
-  status: outdated
-  summary: ML-first vector search engine
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - BSD-3-Clause
-  vulnerable: true
-- repo: nix_stable_25_05
-  srcname: weaviate
-  visiblename: weaviate
-  version: 1.30.2
   origversion: null
   status: outdated
   summary: ML-first vector search engine
