@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,933 · **Forks**: 1,433 · **Open issues**: 2,933 · **Contributors**: 166
+- **Stars**: 16,934 · **Forks**: 1,433 · **Open issues**: 2,933 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 609 · **Merged PRs**: 8370 · **Open PRs**: 320 · **Closed issues**: 2432 · **Open issues**: 501 · **Commits**: 31326
+- **Releases**: 609 · **Merged PRs**: 8372 · **Open PRs**: 319 · **Closed issues**: 2432 · **Open issues**: 501 · **Commits**: 31326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 17 | 173 | 57 | 5 | 20 | 373 |
-| last60d | 2026-09-02 | 33 | 516 | 124 | 9 | 49 | 1964 |
-| 90d | 2026-08-03 | 42 | 783 | 165 | 14 | 106 | 3518 |
-| last180d | 2026-05-05 | 82 | 1619 | 279 | 55 | 179 | 6684 |
-| 360d | 2025-11-06 | 100 | 2737 | 305 | 79 | 206 | 10454 |
-| last720d | 2024-11-11 | 100 | 5218 | 319 | 195 | 301 | 16577 |
+| 30d | 2026-10-03 | 17 | 175 | 57 | 5 | 20 | 373 |
+| last60d | 2026-09-03 | 33 | 507 | 122 | 9 | 48 | 1964 |
+| 90d | 2026-08-04 | 42 | 771 | 164 | 14 | 106 | 3518 |
+| last180d | 2026-05-06 | 82 | 1611 | 278 | 55 | 179 | 6684 |
+| 360d | 2025-11-07 | 100 | 2731 | 304 | 79 | 206 | 10454 |
+| last720d | 2024-11-12 | 100 | 5207 | 318 | 193 | 301 | 16530 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:51:44Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:56:33Z._
