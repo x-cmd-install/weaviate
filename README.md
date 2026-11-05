@@ -14,11 +14,11 @@ x install weaviate
 
 ## Code insight
 
-Total: **1,232,108** lines of code across **5722** files in the top 5 languages.
+Total: **1,235,980** lines of code across **5735** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,169,749 | 199,265 | 190,570 | 5560 |
+| Go | 1,173,621 | 199,793 | 190,989 | 5573 |
 | Json | 30,733 | 0 | 0 | 31 |
 | Python | 14,037 | 1,002 | 2,126 | 54 |
 | AssemblyGAS | 7,108 | 381 | 489 | 36 |
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.38.24` (2026-11-03)
-- **Last commit**: 2026-11-03
+- **Latest**: `v1.39.15` (2026-11-04)
+- **Last commit**: 2026-11-04
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,936 · **Forks**: 1,432 · **Open issues**: 2,934 · **Contributors**: 166
+- **Stars**: 16,937 · **Forks**: 1,433 · **Open issues**: 2,935 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 610 · **Merged PRs**: 8388 · **Open PRs**: 332 · **Closed issues**: 2432 · **Open issues**: 502 · **Commits**: 31576
+- **Releases**: 611 · **Merged PRs**: 8406 · **Open PRs**: 330 · **Closed issues**: 2432 · **Open issues**: 503 · **Commits**: 31618
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 18 | 178 | 72 | 3 | 17 | 615 |
-| last60d | 2026-09-05 | 34 | 509 | 132 | 8 | 45 | 2304 |
-| 90d | 2026-08-06 | 42 | 759 | 172 | 14 | 102 | 3958 |
-| last180d | 2026-05-08 | 83 | 1608 | 289 | 55 | 180 | 7124 |
-| 360d | 2025-11-09 | 100 | 2747 | 317 | 79 | 207 | 10894 |
-| last720d | 2024-11-14 | 100 | 5202 | 331 | 192 | 302 | 16660 |
+| 30d | 2026-10-06 | 18 | 174 | 66 | 3 | 18 | 651 |
+| last60d | 2026-09-06 | 35 | 527 | 130 | 8 | 46 | 2340 |
+| 90d | 2026-08-07 | 42 | 774 | 170 | 14 | 102 | 3994 |
+| last180d | 2026-05-09 | 83 | 1625 | 287 | 55 | 181 | 7160 |
+| 360d | 2025-11-10 | 100 | 2763 | 315 | 79 | 208 | 10930 |
+| last720d | 2024-11-15 | 100 | 5206 | 329 | 192 | 303 | 16676 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:03:20Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:27:19Z._
