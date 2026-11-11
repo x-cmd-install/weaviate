@@ -1,16 +1,9 @@
-- repo: homebrew
-  srcname: weaviate
-  visiblename: weaviate
-  version: 1.40.4
-  origversion: null
-  status: newest
-  summary: Open-source vector database that stores both objects and vectors
 - repo: aur
   srcname: weaviate
   binname: weaviate
   visiblename: weaviate
-  version: 1.40.4
-  origversion: 1.40.4-1
+  version: 1.40.5
+  origversion: 1.40.5-1
   status: newest
   summary: An open source vector database written in Go
   maintainers:
@@ -21,8 +14,8 @@
   srcname: weaviate-bin
   binname: weaviate-bin
   visiblename: weaviate-bin
-  version: 1.40.4
-  origversion: 1.40.4-1
+  version: 1.40.5
+  origversion: 1.40.5-1
   status: newest
   summary: An open source vector database written in Go
   maintainers:
@@ -33,7 +26,7 @@
   srcname: databases/weaviate
   binname: weaviate
   visiblename: databases/weaviate
-  version: 1.40.4
+  version: 1.40.5
   origversion: null
   status: newest
   summary: Vector database that stores both objects and vectors
@@ -41,6 +34,13 @@
     - yuri@freebsd.org
   categories:
     - databases
+- repo: homebrew
+  srcname: weaviate
+  visiblename: weaviate
+  version: 1.40.5
+  origversion: null
+  status: newest
+  summary: Open-source vector database that stores both objects and vectors
 - repo: nix_unstable
   srcname: weaviate
   visiblename: weaviate
