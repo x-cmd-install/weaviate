@@ -14,11 +14,11 @@ x install weaviate
 
 ## Code insight
 
-Total: **1,259,128** lines of code across **5835** files in the top 5 languages.
+Total: **1,258,969** lines of code across **5835** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,196,350 | 203,977 | 194,095 | 5672 |
+| Go | 1,196,191 | 203,905 | 193,966 | 5672 |
 | Json | 31,126 | 0 | 0 | 31 |
 | Python | 14,037 | 1,002 | 2,126 | 54 |
 | AssemblyGAS | 7,113 | 383 | 491 | 37 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,943 · **Forks**: 1,434 · **Open issues**: 2,942 · **Contributors**: 166
+- **Stars**: 16,944 · **Forks**: 1,434 · **Open issues**: 2,942 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 615 · **Merged PRs**: 8471 · **Open PRs**: 327 · **Closed issues**: 2432 · **Open issues**: 510 · **Commits**: 31970
+- **Releases**: 615 · **Merged PRs**: 8477 · **Open PRs**: 337 · **Closed issues**: 2432 · **Open issues**: 510 · **Commits**: 31975
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 17 | 188 | 69 | 3 | 25 | 776 |
-| last60d | 2026-09-12 | 35 | 524 | 123 | 8 | 44 | 2299 |
-| 90d | 2026-08-13 | 46 | 785 | 154 | 11 | 66 | 3862 |
-| last180d | 2026-05-15 | 85 | 1643 | 283 | 52 | 184 | 7353 |
-| 360d | 2025-11-16 | 100 | 2815 | 312 | 79 | 213 | 11267 |
-| last720d | 2024-11-21 | 100 | 5210 | 326 | 190 | 308 | 16856 |
+| 30d | 2026-10-13 | 15 | 189 | 80 | 3 | 24 | 781 |
+| last60d | 2026-09-13 | 35 | 529 | 134 | 8 | 44 | 2304 |
+| 90d | 2026-08-14 | 46 | 783 | 164 | 11 | 65 | 3867 |
+| last180d | 2026-05-16 | 85 | 1641 | 294 | 52 | 184 | 7358 |
+| 360d | 2025-11-17 | 100 | 2815 | 321 | 79 | 213 | 11272 |
+| last720d | 2024-11-22 | 100 | 5203 | 336 | 190 | 308 | 16795 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:03:39Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:12:17Z._
