@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,948 · **Forks**: 1,437 · **Open issues**: 2,944 · **Contributors**: 166
+- **Stars**: 16,952 · **Forks**: 1,437 · **Open issues**: 2,945 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 615 · **Merged PRs**: 8490 · **Open PRs**: 352 · **Closed issues**: 2432 · **Open issues**: 512 · **Commits**: 32028
+- **Releases**: 615 · **Merged PRs**: 8490 · **Open PRs**: 362 · **Closed issues**: 2432 · **Open issues**: 513 · **Commits**: 32028
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 14 | 181 | 96 | 3 | 26 | 782 |
-| last60d | 2026-09-16 | 31 | 485 | 149 | 6 | 42 | 1942 |
-| 90d | 2026-08-17 | 46 | 783 | 176 | 11 | 65 | 3629 |
-| last180d | 2026-05-19 | 85 | 1629 | 309 | 50 | 180 | 7156 |
-| 360d | 2025-11-20 | 100 | 2804 | 336 | 79 | 215 | 11170 |
-| last720d | 2024-11-25 | 100 | 5207 | 351 | 190 | 310 | 16804 |
+| 30d | 2026-10-17 | 14 | 181 | 106 | 3 | 27 | 782 |
+| last60d | 2026-09-17 | 31 | 470 | 156 | 6 | 43 | 1942 |
+| 90d | 2026-08-18 | 46 | 774 | 185 | 11 | 66 | 3629 |
+| last180d | 2026-05-20 | 85 | 1620 | 318 | 50 | 181 | 7156 |
+| 360d | 2025-11-21 | 100 | 2793 | 346 | 79 | 216 | 11170 |
+| last720d | 2024-11-26 | 100 | 5196 | 361 | 190 | 311 | 16752 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:22:19Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:45:01Z._
