@@ -14,15 +14,15 @@ x install weaviate
 
 ## Code insight
 
-Total: **1,260,444** lines of code across **5838** files in the top 5 languages.
+Total: **1,267,994** lines of code across **5854** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,197,666 | 203,937 | 193,921 | 5675 |
-| Json | 31,126 | 0 | 0 | 31 |
+| Go | 1,205,122 | 203,864 | 194,587 | 5691 |
+| Json | 31,163 | 0 | 0 | 31 |
 | Python | 14,037 | 1,002 | 2,126 | 54 |
 | AssemblyGAS | 7,113 | 383 | 491 | 37 |
-| Sh | 4,201 | 596 | 658 | 41 |
+| Sh | 4,256 | 603 | 668 | 41 |
 
 ## OpenSSF Scorecard
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.40.5` (2026-11-10)
-- **Last commit**: 2026-11-13
+- **Latest**: `v1.41.0-rc.0` (2026-11-10)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 16,952 · **Forks**: 1,437 · **Open issues**: 2,945 · **Contributors**: 166
+- **Stars**: 16,952 · **Forks**: 1,439 · **Open issues**: 2,945 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 615 · **Merged PRs**: 8490 · **Open PRs**: 362 · **Closed issues**: 2432 · **Open issues**: 513 · **Commits**: 32028
+- **Releases**: 616 · **Merged PRs**: 8507 · **Open PRs**: 360 · **Closed issues**: 2432 · **Open issues**: 513 · **Commits**: 32418
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 14 | 181 | 106 | 3 | 27 | 782 |
-| last60d | 2026-09-17 | 31 | 470 | 156 | 6 | 43 | 1942 |
-| 90d | 2026-08-18 | 46 | 774 | 185 | 11 | 66 | 3629 |
-| last180d | 2026-05-20 | 85 | 1620 | 318 | 50 | 181 | 7156 |
-| 360d | 2025-11-21 | 100 | 2793 | 346 | 79 | 216 | 11170 |
-| last720d | 2024-11-26 | 100 | 5196 | 361 | 190 | 311 | 16752 |
+| 30d | 2026-10-18 | 15 | 198 | 105 | 3 | 27 | 1367 |
+| last60d | 2026-09-18 | 32 | 470 | 153 | 6 | 42 | 2527 |
+| 90d | 2026-08-19 | 46 | 786 | 184 | 11 | 66 | 4214 |
+| last180d | 2026-05-21 | 84 | 1625 | 317 | 49 | 181 | 7741 |
+| 360d | 2025-11-22 | 100 | 2810 | 344 | 79 | 216 | 11755 |
+| last720d | 2024-11-27 | 100 | 5209 | 359 | 190 | 311 | 17113 |
 
 ## Release assets
 
@@ -79,15 +79,6 @@ Lowest-scoring checks:
 | [weaviate-v1.40.5-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.40.5/weaviate-v1.40.5-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
 | [weaviate-v1.40.5-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.40.5/weaviate-v1.40.5-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.40.5` | ✅ latest |
-| Nix unstable | `1.39.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `weaviate` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +88,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:45:01Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:39:12Z._
