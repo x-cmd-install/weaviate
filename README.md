@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,958 · **Forks**: 1,441 · **Open issues**: 2,950 · **Contributors**: 167
+- **Stars**: 16,959 · **Forks**: 1,440 · **Open issues**: 2,951 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 621 · **Merged PRs**: 8554 · **Open PRs**: 370 · **Closed issues**: 2436 · **Open issues**: 514 · **Commits**: 32842
+- **Releases**: 621 · **Merged PRs**: 8557 · **Open PRs**: 381 · **Closed issues**: 2435 · **Open issues**: 516 · **Commits**: 32842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 16 | 224 | 112 | 5 | 22 | 1654 |
-| last60d | 2026-09-25 | 33 | 424 | 154 | 8 | 42 | 2518 |
-| 90d | 2026-08-26 | 48 | 770 | 189 | 12 | 66 | 4370 |
-| last180d | 2026-05-28 | 83 | 1609 | 318 | 43 | 176 | 7971 |
-| 360d | 2025-11-29 | 100 | 2792 | 351 | 81 | 217 | 11939 |
-| last720d | 2024-12-04 | 100 | 5210 | 369 | 190 | 311 | 17381 |
+| 30d | 2026-10-26 | 15 | 227 | 124 | 4 | 22 | 1654 |
+| last60d | 2026-09-26 | 32 | 427 | 164 | 8 | 44 | 2518 |
+| 90d | 2026-08-27 | 47 | 757 | 200 | 12 | 68 | 4370 |
+| last180d | 2026-05-29 | 83 | 1596 | 327 | 42 | 177 | 7971 |
+| 360d | 2025-11-30 | 100 | 2793 | 362 | 80 | 219 | 11939 |
+| last720d | 2024-12-05 | 100 | 5203 | 380 | 189 | 313 | 17332 |
 
 ## Release assets
 
@@ -79,15 +79,6 @@ Lowest-scoring checks:
 | [weaviate-v1.41.0-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
 | [weaviate-v1.41.0-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/weaviate). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.41.0` | ✅ latest |
-| Nix unstable | `1.39.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `weaviate` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +88,4 @@ Install metadata for weaviate lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:20:22Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:36:40Z._

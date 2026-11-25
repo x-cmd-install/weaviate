@@ -48,22 +48,22 @@ x install weaviate
 
 ## 流行度
 
-- **Star**: 16,958 · **Fork**: 1,441 · **开放 issue**: 2,950 · **贡献者**: 167
+- **Star**: 16,959 · **Fork**: 1,440 · **开放 issue**: 2,951 · **贡献者**: 167
 
 ## 累计统计
 
-- **发布数**: 621 · **已合并 PR**: 8554 · **开放 PR**: 370 · **已关闭 issue**: 2436 · **开放 issue**: 514 · **提交数**: 32842
+- **发布数**: 621 · **已合并 PR**: 8557 · **开放 PR**: 381 · **已关闭 issue**: 2435 · **开放 issue**: 516 · **提交数**: 32842
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 16 | 224 | 112 | 5 | 22 | 1654 |
-| last60d | 2026-09-25 | 33 | 424 | 154 | 8 | 42 | 2518 |
-| 90d | 2026-08-26 | 48 | 770 | 189 | 12 | 66 | 4370 |
-| last180d | 2026-05-28 | 83 | 1609 | 318 | 43 | 176 | 7971 |
-| 360d | 2025-11-29 | 100 | 2792 | 351 | 81 | 217 | 11939 |
-| last720d | 2024-12-04 | 100 | 5210 | 369 | 190 | 311 | 17381 |
+| 30d | 2026-10-26 | 15 | 227 | 124 | 4 | 22 | 1654 |
+| last60d | 2026-09-26 | 32 | 427 | 164 | 8 | 44 | 2518 |
+| 90d | 2026-08-27 | 47 | 757 | 200 | 12 | 68 | 4370 |
+| last180d | 2026-05-29 | 83 | 1596 | 327 | 42 | 177 | 7971 |
+| 360d | 2025-11-30 | 100 | 2793 | 362 | 80 | 219 | 11939 |
+| last720d | 2024-12-05 | 100 | 5203 | 380 | 189 | 313 | 17332 |
 
 ## Release 资产
 
@@ -79,15 +79,6 @@ x install weaviate
 | [weaviate-v1.41.0-linux-arm64.tar.gz.md5](https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
 | [weaviate-v1.41.0-linux-arm64.tar.gz.sha256](https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-arm64.tar.gz.sha256) | 65 B | `native/linux/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/weaviate) 上共有 **10** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.41.0` | ✅ latest |
-| Nix unstable | `1.39.2` | ⚠️ outdated |
-
 ## 改进这些数据
 
 weaviate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `weaviate` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +88,4 @@ weaviate 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:20:23Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:36:42Z._
