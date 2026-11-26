@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 172790434,
       "digest": "sha256:289ff05f1fe7ab891f61e8d0d406185736f7f8c26c1e20e9268ba4bb90d87f05",
-      "download_count": 9,
+      "download_count": 21,
       "created_at": "2026-11-23T21:07:07Z",
       "updated_at": "2026-11-23T21:07:16Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-darwin-all.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:92154d1377f85a34c405abd2b72e9524e0f193d27c93f0f9e8b94a3f8ca4ebca",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-11-23T21:07:16Z",
       "updated_at": "2026-11-23T21:07:16Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-darwin-all.zip.md5"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:dfa73806c1def7dd06bcece58153816218d827149e1df2eee159544e1213b9fc",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-11-23T21:07:16Z",
       "updated_at": "2026-11-23T21:07:16Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-darwin-all.zip.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 84991620,
       "digest": "sha256:fcaed89f2b1434aee91fc1adc9cb9125135076af512b1de1a1c4fb6ff30cb836",
-      "download_count": 1163,
+      "download_count": 1596,
       "created_at": "2026-11-23T21:09:46Z",
       "updated_at": "2026-11-23T21:09:50Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:54ad31d5f4af6fd2fcf76c9bd26ea013f71f6129092159115dec653cec2759a3",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-11-23T21:09:51Z",
       "updated_at": "2026-11-23T21:09:52Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-amd64.tar.gz.md5"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:8ee02457cecc14fc4030239efaef9f9d0b0a41bf531b5a508fab81204ec938bb",
-      "download_count": 25,
+      "download_count": 31,
       "created_at": "2026-11-23T21:09:52Z",
       "updated_at": "2026-11-23T21:09:53Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-amd64.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 81015776,
       "digest": "sha256:3a54f49f173c2ea0febfcf07966f75b1ecd0130796d44f4a53d6f1d559096a05",
-      "download_count": 10,
+      "download_count": 17,
       "created_at": "2026-11-23T21:09:45Z",
       "updated_at": "2026-11-23T21:09:58Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:b73a02cbbde33a59e1513d6bb8a0fc4b32b556b353b381da52011a92327decac",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-23T21:09:59Z",
       "updated_at": "2026-11-23T21:09:59Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-arm64.tar.gz.md5"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:b2b9696dc238473641acb99bd40da30051b710a1b2f73b34a041e9ddf407cd84",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-11-23T21:10:00Z",
       "updated_at": "2026-11-23T21:10:00Z",
       "browser_download_url": "https://github.com/weaviate/weaviate/releases/download/v1.41.0/weaviate-v1.41.0-linux-arm64.tar.gz.sha256"
